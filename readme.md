@@ -11,8 +11,10 @@
 3. go to repo location `cd eg-sh-fun`
 4. check the branch you're on - it'll be master `git branch`
 5. make a new branch and name it something `git checkout -b myNewBranch`
-6. pull any existing data `git pull master`
+6. pull any existing data `git pull`
 7. make a change to the repo - you can edit the readme file
 8. Add the files to git staging area `git add --all`
 9. Commit the files `git commit -m "my commit message here"`
 10. Push the files from local to origin `git push -u origin myBranchName`
+11. Create a pull request
+12. Merge changes to develop.
